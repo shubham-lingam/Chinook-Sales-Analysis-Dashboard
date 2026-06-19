@@ -1,0 +1,25 @@
+country,TotalSales,AverageInvoice,NumberOfInvoices
+USA,523.06,9.447490,494
+Canada,303.96,8.848553,304
+France,195.10,9.063684,190
+Brazil,190.10,8.826842,190
+Germany,156.48,9.161053,152
+"United Kingdom",112.86,8.805789,114
+"Czech Republic",90.24,11.568947,76
+Portugal,77.24,9.042632,76
+India,75.26,9.017297,74
+Chile,46.62,10.937368,38
+Hungary,45.62,11.753158,38
+Ireland,45.62,11.753158,38
+Austria,42.62,10.647895,38
+Finland,41.62,9.226842,38
+Netherlands,40.62,9.279474,38
+Norway,39.62,9.542632,38
+Sweden,38.62,8.963684,38
+Belgium,37.62,8.805789,38
+Denmark,37.62,8.805789,38
+Italy,37.62,8.805789,38
+Poland,37.62,8.805789,38
+Spain,37.62,8.805789,38
+Australia,37.62,8.805789,38
+Argentina,37.62,8.805789,38
