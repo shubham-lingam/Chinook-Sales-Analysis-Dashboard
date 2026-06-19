@@ -1,0 +1,26 @@
+# CSV Exports
+
+This folder contains all CSV files exported from SQL queries for integration with the **Power BI dashboard** in the Chinook Sales Analysis project.
+
+## 📂 Files
+- `Country_Sales.csv` – Country‑wise sales data used for map visualization.
+- `Employee_Performance.csv` – Employee performance metrics for KPI cards.
+- `Top_Artist.csv` – Artist‑wise revenue data for bar chart visualization.
+- `Top_Genre.csv` – Genre‑wise sales data for pie chart visualization.
+- `Top_Customers.csv` – Customer revenue data for ranking visuals.
+- `Invoice_KPI.csv` – Invoice metrics (total invoices, average invoice value, total revenue).
+
+## 🎯 Purpose
+These CSV files serve as the **data bridge** between SQL analysis and Power BI visualization.  
+They represent clean, structured outputs ready for dashboard integration.
+
+## 🧰 Tools & Techniques
+- **MySQL Workbench** – Query execution and data export  
+- **Power BI** – Data import and visualization  
+- **Excel/CSV** – Intermediate data storage and validation  
+
+## 📈 Outcome
+This folder demonstrates the ability to:
+- Export analytical results efficiently from SQL  
+- Maintain organized datasets for Power BI integration  
+- Build a seamless end‑to‑end data pipeline from database to dashboard
